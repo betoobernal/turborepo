@@ -26,7 +26,6 @@
   "author": "Elkin Bernal <elkinbernal21@gmail.com>",
   "auto": {
     "plugins": [
-      "npm",
       "all-contributors",
       [
         "conventional-commits",

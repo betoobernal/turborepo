@@ -2,6 +2,19 @@
 
 #### ⚠️ Pushed to `main`
 
+- feat: install gittag plugin (elkinbernal21@gmail.com)
+- feat: update question (elkinbernal21@gmail.com)
+
+#### Authors: 1
+
+- Elkin Bernal (elkinbernal21@gmail.com)
+
+---
+
+# v0.1.2 (Sun Aug 06 2023)
+
+#### ⚠️ Pushed to `main`
+
 - feat: update question (elkinbernal21@gmail.com)
 
 #### Authors: 1
