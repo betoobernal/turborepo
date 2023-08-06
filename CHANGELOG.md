@@ -1,3 +1,15 @@
+# v0.1.1 (Sun Aug 06 2023)
+
+#### ⚠️ Pushed to `main`
+
+- fix: add preset angular for conventional commits ([@betoobernal](https://github.com/betoobernal))
+
+#### Authors: 1
+
+- Elkin Alberto ([@betoobernal](https://github.com/betoobernal))
+
+---
+
 # v0.1.0 (Sun Aug 06 2023)
 
 :tada: This release contains work from a new contributor! :tada:
