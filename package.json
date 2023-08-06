@@ -27,7 +27,7 @@
     "plugins": [
       "npm",
       "all-contributors",
-      "conventional-commits",
+      ["conventional-commits", { "preset": "angular" }],
       "first-time-contributor",
       "released"
     ]
