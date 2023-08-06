@@ -27,10 +27,15 @@
     "plugins": [
       "npm",
       "all-contributors",
-      ["conventional-commits", { "preset": "angular" }],
+      [
+        "conventional-commits",
+        {
+          "preset": "angular"
+        }
+      ],
       "first-time-contributor",
       "released"
     ]
   },
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
