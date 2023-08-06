@@ -5,7 +5,7 @@
     "dev": "turbo run dev",
     "lint": "turbo run lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
-    "release": "auto shipit"
+    "release": "./scripts/release.sh"
   },
   "devDependencies": {
     "@auto-it/all-contributors": "^11.0.0",
