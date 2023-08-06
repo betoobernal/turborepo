@@ -10,7 +10,7 @@ export default function generator(plop: PlopTypes.NodePlopAPI): void {
       {
         type: "input",
         name: "name",
-        message: "What is the name of the component?",
+        message: "What is the name of the component? 🥹",
       },
     ],
     actions: [
