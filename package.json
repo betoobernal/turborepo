@@ -11,6 +11,7 @@
     "@auto-it/all-contributors": "^11.0.0",
     "@auto-it/conventional-commits": "^11.0.0",
     "@auto-it/first-time-contributor": "^11.0.0",
+    "@auto-it/git-tag": "^11.0.0",
     "@auto-it/released": "^11.0.0",
     "@turbo/gen": "^1.9.7",
     "auto": "^11.0.0",
@@ -34,7 +35,8 @@
         }
       ],
       "first-time-contributor",
-      "released"
+      "released",
+      "git-tag"
     ]
   },
   "version": "0.1.1"
