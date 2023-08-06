@@ -7,6 +7,10 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
+    "@auto-it/all-contributors": "^11.0.0",
+    "@auto-it/conventional-commits": "^11.0.0",
+    "@auto-it/first-time-contributor": "^11.0.0",
+    "@auto-it/released": "^11.0.0",
     "@turbo/gen": "^1.9.7",
     "auto": "^11.0.0",
     "eslint": "^7.32.0",
@@ -15,5 +19,16 @@
     "turbo": "latest"
   },
   "packageManager": "pnpm@8.6.10",
-  "name": "my-turborepo"
+  "name": "my-turborepo",
+  "repository": "betoobernal/turborepo",
+  "author": "Elkin Bernal <elkinbernal21@gmail.com>",
+  "auto": {
+    "plugins": [
+      "npm",
+      "all-contributors",
+      "conventional-commits",
+      "first-time-contributor",
+      "released"
+    ]
+  }
 }
